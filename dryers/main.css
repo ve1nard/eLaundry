@@ -1,0 +1,29 @@
+body{
+  background-color: #BE9BD3;
+}
+
+.baskets{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.basket{
+  width: 463px; 
+  height: 236px;
+  display: inline-block; 
+  *display: inline; 
+  zoom: 1; 
+  vertical-align: bottom;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 200px;
+}
+
+.washer-animation {
+    width: 720px;
+    height: 360px;
+    display: block;
+    margin: auto; 
+  }
